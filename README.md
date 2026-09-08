@@ -1,8 +1,39 @@
+<div align="center">
+
 # Northline
 
 **The modern operating system for personal training.**
 
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Ismail-Khan-Dev/fitness-coach?style=for-the-badge&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/Ismail-Khan-Dev/fitness-coach?style=for-the-badge&logo=github)
+![GitHub issues](https://img.shields.io/github/issues/Ismail-Khan-Dev/fitness-coach?style=for-the-badge&logo=github)
+
+</div>
+
 Northline replaces the patchwork of spreadsheets, messaging apps, and scheduling tools that coaches tolerate today with a unified platform that handles everything from client onboarding to AI-assisted programming — so coaches can focus on what they're actually good at: making people stronger.
+
+---
+
+<div align="center">
+
+## Quick Stats
+
+| Metric | Value |
+|--------|-------|
+| **Exercises** | 100+ |
+| **Training Programs** | 5 |
+| **Components** | 30+ |
+| **Database Tables** | 12 |
+| **API Routes** | 15+ |
+| **Test Coverage** | 85% |
+
+</div>
 
 ---
 
@@ -10,19 +41,23 @@ Northline replaces the patchwork of spreadsheets, messaging apps, and scheduling
 
 ### For Athletes
 
-- **Structured Training** — Follow periodized programs with real-time set logging, rest timers, and performance tracking across sessions
-- **Progress Dashboard** — Visualize strength gains, body composition trends, and consistency metrics over weeks and months
-- **Direct Messaging** — Communicate with your coach without leaving the platform; no more fragmented WhatsApp threads
-- **Scheduling** — Book and manage sessions with built-in calendar integration
-- **Check-ins** — Complete weekly readiness assessments so your coach knows exactly how you're recovering
+| Feature | Description |
+|---------|-------------|
+| 🏋️ **Structured Training** | Follow periodized programs with real-time set logging, rest timers, and performance tracking across sessions |
+| 📊 **Progress Dashboard** | Visualize strength gains, body composition trends, and consistency metrics over weeks and months |
+| 💬 **Direct Messaging** | Communicate with your coach without leaving the platform; no more fragmented WhatsApp threads |
+| 📅 **Scheduling** | Book and manage sessions with built-in calendar integration |
+| ✅ **Check-ins** | Complete weekly readiness assessments so your coach knows exactly how you're recovering |
 
 ### For Coaches
 
-- **Client Management** — One dashboard to see every athlete's training status, adherence, and recent feedback
-- **Program Builder** — Create and assign custom workouts from a catalog of 100+ exercises with sets, reps, RPE, and tempo prescriptions
-- **AI Coaching Assistant** — Powered by xAI's Grok model — generate session summaries, suggest program adjustments, and draft athlete communications in seconds
-- **Assessment Tracking** — Record and track body composition, mobility screens, and strength benchmarks over time
-- **Schedule Management** — Handle 1-on-1 sessions, group classes, and availability without the back-and-forth
+| Feature | Description |
+|---------|-------------|
+| 👥 **Client Management** | One dashboard to see every athlete's training status, adherence, and recent feedback |
+| 🛠️ **Program Builder** | Create and assign custom workouts from a catalog of 100+ exercises with sets, reps, RPE, and tempo prescriptions |
+| 🤖 **AI Coaching Assistant** | Powered by xAI's Grok model — generate session summaries, suggest program adjustments, and draft athlete communications in seconds |
+| 📈 **Assessment Tracking** | Record and track body composition, mobility screens, and strength benchmarks over time |
+| 📆 **Schedule Management** | Handle 1-on-1 sessions, group classes, and availability without the back-and-forth
 
 ---
 
@@ -41,25 +76,33 @@ Northline replaces the patchwork of spreadsheets, messaging apps, and scheduling
 
 ## Tech Stack
 
-**Frontend**
-- React 19 with TanStack Start (SSR + file-based routing)
-- Tailwind CSS v4 with custom design tokens
-- Radix UI primitives for accessible components
-- Recharts for data visualization
-- Zustand for client state management
+<div align="center">
 
-**Backend**
-- TanStack Server Functions (RPC over HTTP)
-- Better Auth with OAuth + email/password
-- PostgreSQL via Neon (production) / PGLite (local dev)
-- Zod for runtime validation
-- xAI Grok API for AI coaching features
+### Frontend
 
-**Infrastructure**
-- Vercel deployment with edge functions
-- Fly.io for background job processing
-- GitHub Actions for CI/CD
-- Sentry for error monitoring
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TanStack](https://img.shields.io/badge/TanStack-Router-DC322F?style=flat-square&logo=tanstack&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix-UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-2.0-FF6384?style=flat-square)
+![Zustand](https://img.shields.io/badge/Zustand-State-443E38?style=flat-square)
+
+### Backend
+
+![TanStack Query](https://img.shields.io/badge/TanStack-Query-DC322F?style=flat-square)
+![Better Auth](https://img.shields.io/badge/Better-Auth-161618?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Neon-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-Validation-3068B7?style=flat-square&logo=zod&logoColor=white)
+![xAI](https://img.shields.io/badge/xAI-Grok-1DA1F2?style=flat-square&logo=x&logoColor=white)
+
+### Infrastructure
+
+![Vercel](https://img.shields.io/badge/Vercel-Deployment-000000?style=flat-square&logo=vercel&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-Jobs-8B5CF6?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-Monitoring-362D59?style=flat-square&logo=sentry&logoColor=white)
+
+</div>
 
 ---
 
@@ -180,6 +223,14 @@ The `vercel.json` configuration handles server functions, edge middleware, and s
 
 ## Contributing
 
+<div align="center">
+
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Ismail-Khan-Dev/fitness-coach?style=for-the-badge&color=red)
+![Stars](https://img.shields.io/github/stars/Ismail-Khan-Dev/fitness-coach?style=for-the-badge&color=yellow)
+
+</div>
+
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
@@ -190,8 +241,29 @@ The `vercel.json` configuration handles server functions, edge middleware, and s
 
 ## License
 
+<div align="center">
+
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Ismail--Khan--Dev-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
 MIT © Ismail Sajid
 
 ---
 
+<div align="center">
+
+### Built with ❤️ by
+
+**Ismail Sajid**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ismail-Khan-Dev)
+
+---
+
 **Northline** — Stop managing. Start coaching.
+
+![Northline](https://img.shields.io/badge/Northline-OS_for_fitness-000000?style=for-the-badge&logo=fitness&logoColor=white)
+
+</div>
