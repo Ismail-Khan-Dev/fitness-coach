@@ -2,6 +2,8 @@
 
 ![Northline — Quiet strength.](public/og.jpg)
 
+<br/>
+
 # **NORTHLINE**
 
 ### *Quiet strength.*
@@ -18,7 +20,7 @@
 
 <br/>
 
-[Get Started](#quick-start) · [Features](#features) · [Programs](#training-programs) · [Deploy](#deployment)
+[Get Started](#quick-start) · [Features](#what-you-get) · [Programs](#training-programs) · [Deploy](#deployment)
 
 </div>
 
@@ -35,6 +37,20 @@
 The fitness industry runs on a broken stack. Coaches juggle WhatsApp threads for programming, Google Sheets for tracking, Calendly for scheduling, and Venmo for payments. Athletes bounce between apps that don't talk to each other. Nobody wins.
 
 **Northline replaces the patchwork with a single, cohesive platform** — built by coaches, for coaches, powered by modern technology that disappears into the background.
+
+<br/>
+
+<div align="center">
+
+![The Northline Experience](public/images/lifestyle.jpg)
+
+*Where technology meets training.*
+
+</div>
+
+<br/>
+
+---
 
 <br/>
 
@@ -69,6 +85,20 @@ The fitness industry runs on a broken stack. Coaches juggle WhatsApp threads for
 
 <br/>
 
+<div align="center">
+
+![Coach at work](public/images/coach.jpg)
+
+*Built for coaches who demand more.*
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 ## Built Different
 
 <br/>
@@ -85,6 +115,10 @@ The fitness industry runs on a broken stack. Coaches juggle WhatsApp threads for
 
 <br/>
 
+---
+
+<br/>
+
 ## Training Programs
 
 Five periodized programs designed by certified coaches — each with full workout templates, exercise progressions, and deload protocols.
@@ -93,19 +127,58 @@ Five periodized programs designed by certified coaches — each with full workou
 
 <div align="center">
 
-| | Program | Duration | Focus |
-|:---:|:---|:---:|:---|
-| 🏗️ | **Foundation** | 8 weeks | Movement quality & work capacity |
-| 💪 | **Strength** | 10 weeks | Max strength & powerlifting |
-| ⚡ | **Performance** | 12 weeks | Athletic performance & conditioning |
-| 🩹 | **Rebuild** | 8 weeks | Injury rehab & return to training |
-| ✨ | **Custom** | Unlimited | Coach-programmed for individual needs |
+![Programs](public/images/method.jpg)
+
+*Science-backed programming. Period.*
 
 </div>
 
 <br/>
 
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="public/images/program-foundation.jpg" width="100%" /><br/>
+<b>Foundation</b><br/>
+<sub>8 weeks · Movement quality</sub>
+</td>
+<td align="center" width="25%">
+<img src="public/images/program-strength.jpg" width="100%" /><br/>
+<b>Strength</b><br/>
+<sub>10 weeks · Max strength</sub>
+</td>
+<td align="center" width="25%">
+<img src="public/images/program-performance.jpg" width="100%" /><br/>
+<b>Performance</b><br/>
+<sub>12 weeks · Athletic power</sub>
+</td>
+<td align="center" width="25%">
+<img src="public/images/program-rebuild.jpg" width="100%" /><br/>
+<b>Rebuild</b><br/>
+<sub>8 weeks · Recovery</sub>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 ## Architecture
+
+<br/>
+
+<div align="center">
+
+![Detail](public/images/detail-hands.jpg)
+
+*Engineered from the ground up.*
+
+</div>
 
 <br/>
 
@@ -132,6 +205,10 @@ Five periodized programs designed by certified coaches — each with full workou
 
 <br/>
 
+---
+
+<br/>
+
 ## Tech Stack
 
 <br/>
@@ -150,6 +227,10 @@ Five periodized programs designed by certified coaches — each with full workou
 | **Deploy** | Vercel · Fly.io · GitHub Actions |
 
 </div>
+
+<br/>
+
+---
 
 <br/>
 
@@ -182,6 +263,10 @@ npm run dev
 
 <br/>
 
+---
+
+<br/>
+
 ## Environment
 
 <br/>
@@ -195,6 +280,10 @@ npm run dev
 | `GOOGLE_CLIENT_ID` | — | Google OAuth |
 | `GOOGLE_CLIENT_SECRET` | — | Google OAuth |
 | `XAI_API_KEY` | — | xAI Grok for AI features |
+
+<br/>
+
+---
 
 <br/>
 
@@ -226,6 +315,10 @@ fitness-coach/
 
 <br/>
 
+---
+
+<br/>
+
 ## Deployment
 
 <br/>
@@ -239,6 +332,10 @@ npm run preview
 ```
 
 Vercel handles server functions, edge middleware, and static assets automatically.
+
+<br/>
+
+---
 
 <br/>
 
@@ -258,9 +355,15 @@ Vercel handles server functions, edge middleware, and static assets automaticall
 
 <div align="center">
 
-**Stop managing. Start coaching.**
+### *Stop managing. Start coaching.*
 
-[Northline](https://github.com/Ismail-Khan-Dev/fitness-coach) · Built with quiet strength.
+<br/>
+
+![Hero](public/images/hero.jpg)
+
+<br/>
+
+**[Northline](https://github.com/Ismail-Khan-Dev/fitness-coach)** · Built with quiet strength.
 
 <br/>
 
