@@ -1,58 +1,69 @@
 <div align="center">
 
-<a href="https://github.com/Ismail-Khan-Dev/fitness-coach">
-  <img src="public/og.jpg" alt="Northline — Quiet strength." width="100%">
-</a>
+![Northline — The modern operating system for personal training](./public/images/hero.jpg)
 
-<br/>
 <br/>
 
 # `NORTHLINE`
 
 <br/>
 
-![License](https://img.shields.io/badge/license-MIT-111?style=for-the-badge)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### **The modern operating system for personal training.**
+
+<br/>
+
+![License](https://img.shields.io/badge/license-MIT-1a1a2e?style=for-the-badge)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br/>
 
-<a href="#quick-start"><strong>Get Started</strong></a> · <a href="#features"><strong>Features</strong></a> · <a href="#training-programs"><strong>Programs</strong></a> · <a href="#deployment"><strong>Deploy</strong></a>
+[![Deployed on Vercel](https://img.shields.io/badge/-Deployed%20on%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-app.vercel.app)
+
+<br/>
 
 </div>
 
-<br/>
-<br/>
-
 ---
 
-<br/>
 <br/>
 
 <div align="center">
 
-## *The modern operating system<br/>for personal training.*
+> *"The best coaches don't need more hours in the day.*
+> *They need fewer distractions between them and their athletes."*
 
 </div>
 
-<br/>
-<br/>
-
-> **The fitness industry runs on a broken stack.** Coaches juggle WhatsApp for programming, spreadsheets for tracking, Calendly for scheduling, and Venmo for payments. Athletes bounce between apps that don't talk to each other.
->
-> **Northline replaces the patchwork** with a single, cohesive platform — built by coaches, for coaches, powered by modern technology that disappears into the background.
-
-<br/>
 <br/>
 
 ---
 
 <br/>
+
+## The Problem
+
+The fitness industry runs on a broken stack.
+
+Coaches juggle **WhatsApp** for programming, **Google Sheets** for tracking, **Calendly** for scheduling, and **Venmo** for payments. Athletes bounce between apps that don't communicate. Nobody wins.
+
 <br/>
 
-## Features
+## The Solution
+
+**Northline replaces the patchwork with a single, cohesive platform.**
+
+Built by coaches, for coaches. Powered by modern technology that disappears into the background.
+
+<br/>
+
+---
+
+<br/>
+
+## What You Get
 
 <br/>
 
@@ -60,125 +71,107 @@
 <tr>
 <td width="50%" valign="top">
 
-### `athletes`
+### For Athletes
 
 - **Training Sessions** — Follow periodized programs with real-time set logging, rest timers, and RPE tracking
-- **Progress Dashboard** — Visualize strength gains, consistency, and trends over weeks and months
+- **Progress Dashboard** — Visualize strength gains, consistency, and trends
 - **Direct Messaging** — Talk to your coach without leaving the platform
 - **Smart Scheduling** — Book sessions with built-in calendar sync
-- **Weekly Check-ins** — Share recovery status so your coach can adjust your program
+- **Weekly Check-ins** — Share recovery status so your coach can adjust
 
 </td>
 <td width="50%" valign="top">
 
-### `coaches`
+### For Coaches
 
-- **Client Dashboard** — See every athlete's training status, adherence, and feedback at a glance
-- **Program Builder** — Create custom workouts from 100+ exercises with sets, reps, RPE, and tempo
-- **AI Assistant** — Powered by xAI's Grok — generate summaries, suggestions, and communications
-- **Assessment Tracking** — Record body composition, mobility, and strength benchmarks
-- **Availability Management** — Handle 1-on-1s, group sessions, and open slots
+- **Client Dashboard** — See every athlete's status, adherence, and feedback
+- **Program Builder** — Create workouts from 100+ exercises with sets, reps, RPE, tempo
+- **AI Assistant** — Powered by xAI's Grok — generate summaries, suggestions, drafts
+- **Assessment Tracking** — Record body composition, mobility, strength benchmarks
+- **Availability Management** — Handle 1-on-1s, group sessions, open slots
 
 </td>
 </tr>
 </table>
 
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 ## Built Different
 
 <br/>
 
-<div align="center">
-
-| Capability | Traditional Tools | **Northline** |
+| Capability | Traditional Tools | Northline |
 |:---|:---|:---|
-| Training Logs | Paper, spreadsheets | **Real-time logging with history** |
-| Communication | WhatsApp, email, SMS | **Integrated messaging with context** |
-| Programming | Static PDFs | **Dynamic builder + AI suggestions** |
-| Progress Tracking | Manual check-ins | **Automated dashboards & trends** |
-| Scheduling | Calendly + manual sync | **Built-in booking with availability** |
-| Client Oversight | Guesswork | **Dashboard with adherence metrics** |
-| Payments | Venmo, invoices | **Integrated billing** *(coming soon)* |
+| **Training Logs** | Paper, spreadsheets | Real-time logging with history |
+| **Communication** | WhatsApp, email, SMS | Integrated messaging with context |
+| **Programming** | Static PDFs | Dynamic builder + AI suggestions |
+| **Progress Tracking** | Manual check-ins | Automated dashboards & trends |
+| **Scheduling** | Calendly + manual sync | Built-in booking with availability |
+| **Client Oversight** | Guesswork | Dashboard with adherence metrics |
 
-</div>
-
-<br/>
 <br/>
 
 ---
 
-<br/>
 <br/>
 
 ## Training Programs
 
-<br/>
-
-> Five periodized programs designed by certified coaches — each with full workout templates, exercise progressions, and deload protocols.
+Five periodized programs designed by certified coaches — each with full workout templates, exercise progressions, and deload protocols.
 
 <br/>
 
 <div align="center">
 
-| | **Program** | **Duration** | **Focus** |
+| | Program | Duration | Focus |
 |:---:|:---|:---:|:---|
-| 🏗️ | Foundation | 8 weeks | Movement quality & work capacity |
-| 💪 | Strength | 10 weeks | Max strength & powerlifting |
-| ⚡ | Performance | 12 weeks | Athletic performance & conditioning |
-| 🩹 | Rebuild | 8 weeks | Injury rehab & return to training |
-| ✨ | Custom | Unlimited | Coach-programmed for individual needs |
+| 🏗️ | **Foundation** | 8 weeks | Movement quality & work capacity |
+| 💪 | **Strength** | 10 weeks | Max strength & powerlifting |
+| ⚡ | **Performance** | 12 weeks | Athletic performance & conditioning |
+| 🩹 | **Rebuild** | 8 weeks | Injury rehab & return to training |
+| ✨ | **Custom** | Unlimited | Coach-programmed for individual needs |
 
 </div>
 
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 ## Architecture
 
 <br/>
 
-<div align="center">
-
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                       CLIENT LAYER                          │
-│       React 19 · TanStack Start · Tailwind v4 · Radix      │
+│                       CLIENT                                │
+│      React 19 · TanStack Start · Tailwind v4 · Radix       │
 ├─────────────────────────────────────────────────────────────┤
-│                       SERVER LAYER                          │
-│          TanStack RPC · Zod · Better Auth · JWT             │
+│                       SERVER                                │
+│        TanStack Server Functions · Zod · Better Auth        │
 ├─────────────────────────────────────────────────────────────┤
-│                        AI LAYER                             │
-│              xAI Grok · Session Summaries                   │
+│                        AI                                   │
+│              xAI Grok · Smart Summaries                    │
 │           Program Suggestions · Communication Drafts        │
 ├─────────────────────────────────────────────────────────────┤
-│                       DATA LAYER                            │
-│              PostgreSQL · PGLite · OAuth · Email             │
+│                       DATA                                  │
+│           PostgreSQL (Neon) · PGLite (Local)                │
+│                 OAuth · Email/Password                      │
 ├─────────────────────────────────────────────────────────────┤
-│                      INFRA LAYER                            │
-│               Vercel · Fly.io · GitHub Actions              │
+│                      DEPLOY                                 │
+│              Vercel · Fly.io · GitHub Actions               │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-</div>
-
-<br/>
 <br/>
 
 ---
 
-<br/>
 <br/>
 
 ## Tech Stack
@@ -187,25 +180,23 @@
 
 <div align="center">
 
-| Layer | Stack |
+| Layer | Technology |
 |:---|:---|
-| `frontend` | React 19 · TanStack Start · TanStack Query · TanStack Router |
-| `styling` | Tailwind CSS v4 · Radix UI · CVA · Sonner |
-| `backend` | TanStack Server Functions · Zod · Better Auth |
-| `database` | PostgreSQL (Neon) · PGLite (local fallback) |
-| `ai` | xAI Grok API |
-| `state` | Zustand · TanStack Query Cache |
-| `charts` | Recharts |
-| `deploy` | Vercel · Fly.io · GitHub Actions |
+| **Frontend** | React 19 · TanStack Start · TanStack Query · TanStack Router |
+| **Styling** | Tailwind CSS v4 · Radix UI · CVA · Sonner |
+| **Backend** | TanStack Server Functions · Zod · Better Auth |
+| **Database** | PostgreSQL (Neon) · PGLite (local fallback) |
+| **AI** | xAI Grok API |
+| **State** | Zustand · TanStack Query Cache |
+| **Charts** | Recharts |
+| **Deploy** | Vercel · Fly.io · GitHub Actions |
 
 </div>
 
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 ## Quick Start
@@ -236,18 +227,14 @@ npm run dev
 > **http://localhost:5173** — Hot reload enabled.
 
 <br/>
-<br/>
 
 ---
 
 <br/>
+
+## Environment Variables
+
 <br/>
-
-## Environment
-
-<br/>
-
-<div align="center">
 
 | Variable | Required | Description |
 |:---|:---:|:---|
@@ -259,14 +246,10 @@ npm run dev
 | `GOOGLE_CLIENT_SECRET` | — | Google OAuth |
 | `XAI_API_KEY` | — | xAI Grok for AI features |
 
-</div>
-
-<br/>
 <br/>
 
 ---
 
-<br/>
 <br/>
 
 ## Project Structure
@@ -296,11 +279,9 @@ fitness-coach/
 ```
 
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 ## Deployment
@@ -318,11 +299,9 @@ npm run preview
 Vercel handles server functions, edge middleware, and static assets automatically.
 
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 ## Contributing
@@ -334,25 +313,23 @@ Vercel handles server functions, edge middleware, and static assets automaticall
 3. Run `npm run lint` and `npm run typecheck` before pushing
 
 <br/>
-<br/>
 
 ---
 
 <br/>
-<br/>
 
 <div align="center">
 
-### `Stop managing. Start coaching.`
+### **Stop managing. Start coaching.**
 
 <br/>
 
-![Built with React](https://img.shields.io/badge/Built_with-React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Built with React](https://img.shields.io/badge/Built_with-React_19-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Type Safe](https://img.shields.io/badge/Type_Safe-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![AI Powered](https://img.shields.io/badge/AI_Powered-Grok-000000?style=for-the-badge)
 
 <br/>
 
-**Northline** · Built with quiet strength.
+**Northline** — Built with quiet strength.
 
 </div>
