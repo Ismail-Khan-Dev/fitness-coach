@@ -1,0 +1,13 @@
+node_modules/
+.vercel/
+.tanstack/
+dist/
+build/
+*.log
+screenshots/
+artifacts/
+attachments/
+.grok/
+.env
+.env.*
+!.env.example
